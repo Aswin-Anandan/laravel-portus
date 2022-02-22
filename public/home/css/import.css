@@ -1,0 +1,39 @@
+.in-text{
+    position:relative;
+    top:-300px;
+}
+.bg-img{
+    height: 550px;
+}
+.i-page{
+    color: #0176a5 !important;
+}
+.auth-main-wrap .auth-header {
+    background-color: #0099cb !important;
+    padding: 1.5625rem 1.875rem;
+    text-align: center;
+}
+.main .svg-fill-color-dark {
+    fill: #0176a5 !important;
+}
+@media(max-width:575px){
+
+.main .svg-fill-color-dark {
+    fill: #26b7f1 !important;
+    position:relative;
+    left:-150px;
+}
+#map-img{
+    max-width:300px !important;
+    max-height: 300px !important;
+}
+}
+@media(max-width:473px){
+
+    .main .svg-fill-color-dark {
+        fill: #26b7f1 !important;
+        position:relative;
+        left:20px;
+        height: 150px;
+    }
+    }

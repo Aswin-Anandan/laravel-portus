@@ -1,0 +1,23 @@
+#email-error{
+    color:red
+   }
+       .required-field::after {
+       content: "*";
+       color: red;
+   }
+   .c-page{
+    color: #0176a5 !important;
+       }
+       @media (max-width:450px){
+        .main .svg-fill-color-dark {
+            fill: #26b7f1 !important;
+            height:160px;
+            transform: translateX(0px) !important;
+        }
+       }
+       @media (max-width:570px){
+        .main .svg-fill-color-dark {
+            fill: #26b7f1 !important;
+            transform: translateX(-159px);
+       }
+    }

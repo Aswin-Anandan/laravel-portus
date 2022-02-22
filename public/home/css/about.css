@@ -1,0 +1,27 @@
+.ab-page{
+    color: #0176a5 !important;
+}
+
+.founder-section .content-block {
+    background-color: #187da5;
+
+}
+@media (max-width:1100px){
+    .founder-section .content-block {
+        background-color: #187da5;
+        height: 500px;
+    
+    }
+}
+@media (max-width:767px){
+    .founder-section .content-block h4 {
+        margin-top: 40px;
+    }
+}
+@media (max-width:500px){
+    .founder-section .content-block {
+        background-color: #187da5;
+        height: 600px !important;
+    
+    }
+}
